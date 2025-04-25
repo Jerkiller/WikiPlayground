@@ -103,3 +103,10 @@ D. Switch per la selezione del match per l'import automatico di ID e Label in Wi
 ### Future implementazioni
 * Aggiunta dinamica della query di partenza
 * Gestione dinamica del dominio (per istanze Wikibase)
+
+## Risoluzione dei problemi
+
+* Se effettuando il login non viene rilevato l'account Wikidata:
+  * Assicurarsi che nel browser sia aperta una pagina Wikidata con la login effettuata
+  * Accettare tutti i cookie nel sito di WikiPlayground (anche quelli di terze parti)
+* Altri problemi: Segnalarli all'autore oppure nella pagina [Issue del progetto](//github.com/labaib/WikiPlayground/issues)
